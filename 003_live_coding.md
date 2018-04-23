@@ -65,7 +65,7 @@ git status
 - What does the message says?
 
 ### Exercise 5
-Same the changes
+Add some the changes following the message instructions
 
 ```{unix}
 git commit -m "adding a README.md"
@@ -74,13 +74,39 @@ Check the story of your Project
 ```{unix}
 git status
 ```
-### Exercise 5
+
+### Exercise 6
 - On the README.md file write your name and the date
-- On mycode.txt write the languages that you user
+- Create a code file in your preferred language
+- On the code file add one or two lines of code
 
 Check the story of your Project
 ```{unix}
 git status
 ```
-### Exercise 6
+### Exercise 7
 What is our new status?
+
+```{unix}
+git commit -a "adding a README.md"
+```
+
+## Recap
+- `git status`
+- `git add`
+- `git commit -m`
+- `git status`
+
+repeat three times!
+
+# Break 10 min
+
+## Thing 2. Git Let's you travel in time
+
+We can ask Git to show us the project’s history using `git log`
+
+### Exercise 1
+
+- Do you remember what was the name of this long character string?
+- Add "# My first Git Project" at the top of your README.md file
+- 
