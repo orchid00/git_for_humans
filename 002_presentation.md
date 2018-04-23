@@ -6,5 +6,6 @@ This presentation has been slightly modified from the original. [Alice Bartlett.
 Great way to introduce Git terms. [This presentation has been slightly modified from the original]().
 
 ## Discussion
-- What are some of the new Git terms mentioned?
 - Can you think of a situation where you will collaborate using Git?
+- Can you list some benefits of using an automated version control system?
+- What are some of the new Git terms mentioned?
