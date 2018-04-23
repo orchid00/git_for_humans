@@ -109,4 +109,5 @@ We can ask Git to show us the project’s history using `git log`
 
 - Do you remember what was the name of this long character string?
 - Add "# My first Git Project" at the top of your README.md file
-- 
+- Check the differences before a commit with `git diff`
+- Save your changes (Recap)
