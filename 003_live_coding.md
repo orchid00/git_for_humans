@@ -113,3 +113,6 @@ We can ask Git to show us the project’s history using `git log`
 - Save your changes (Recap)
 - Check the differences after the commit with `git diff`
 - Check the history using `git log`
+
+## Exercise 2
+- Discuss in pairs what's the difference between `git diff`, `git status` and `git log`
