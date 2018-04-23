@@ -111,3 +111,4 @@ We can ask Git to show us the project’s history using `git log`
 - Add "# My first Git Project" at the top of your README.md file
 - Check the differences before a commit with `git diff`
 - Save your changes (Recap)
+- Check the differences after the commit with `git diff`
