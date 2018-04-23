@@ -1,3 +1,10 @@
 # Git for humans
 
-This presentation has been slightly modified from the original. [Alice Bartlett. Git for humans, 2016](https://speakerdeck.com/alicebartlett/git-for-humans) (reuse allowed) by Creative Commons Attribution license. Great way to introduce Git terms. [This presentation has been slightly modified from the original]().
+This presentation has been slightly modified from the original. [Alice Bartlett. Git for humans, 2016](https://speakerdeck.com/alicebartlett/git-for-humans) (reuse allowed) by Creative Commons Attribution license.
+
+## Presentation
+Great way to introduce Git terms. [This presentation has been slightly modified from the original]().
+
+## Discussion
+- What are some of the new Git terms mentioned?
+- Can you think of a situation where you will collaborate using Git?
