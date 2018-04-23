@@ -1,6 +1,6 @@
-What do you need for this workshop?
+# What do you need for this workshop?
 
-Checklist
+## Checklist
 
 - A laptop
 - pre-installed **Git**, if you have a Windows laptop install https://gitforwindows.org/, otherwise you can download Git from here: https://git-scm.com/downloads
@@ -8,3 +8,6 @@ Checklist
 - For internet access please configure eduroam
 
 Once you are ready please write your name on a sticky and paste it on your laptop.
+
+## Suggestion
+Create a folder in your computer to create your git/code projects (somewhere other than the desktop, for example under Documents).
