@@ -62,10 +62,18 @@ git status
 git add
 git status
 ```
-- What happened now?
+- What does the message says?
 
-Atom mycode.txt
+### Exercise 5
+Same the changes
 
+```{unix}
+git commit -m "adding a README.md"
+```
+Check the story of your Project
+```{unix}
+git status
+```
 ### Exercise 5
 - On the README.md file write your name and the date
 - On mycode.txt write the languages that you user
