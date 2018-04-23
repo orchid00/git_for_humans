@@ -112,3 +112,4 @@ We can ask Git to show us the project’s history using `git log`
 - Check the differences before a commit with `git diff`
 - Save your changes (Recap)
 - Check the differences after the commit with `git diff`
+- Check the history using `git log`
