@@ -7,7 +7,7 @@
 - For text editor, please install **Atom** https://atom.io/, we can discuss during the workshop if you prefer to use another editor, however this works multi-platform so it's good for demonstration purposes
 - For internet access please configure eduroam
 
-Once you are ready please write your name on a sticky and paste it on your laptop.
-
 ## Suggestion
 Create a folder in your computer to create your git/code projects (somewhere other than the desktop, for example under Documents).
+
+Once you are ready please write your name on a sticky and paste it on your laptop.
