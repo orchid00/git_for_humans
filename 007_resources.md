@@ -10,3 +10,7 @@
 - [What's the difference between git revert, checkout and reset?](https://stackoverflow.com/questions/8358035/whats-the-difference-between-git-revert-checkout-and-reset)
 - Software Carpentry git for novices lesson http://swcarpentry.github.io/git-novice
 - Add keys, chapter 11 and 12 from [happygitwithr](http://happygitwithr.com/credential-caching.html#credential-caching)
+- Learning paths github	https://services.github.com/on-demand/resources/learning-path/
+- Learn git	https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- basic git commands	https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration
+- git and atom https://vwannabe.com/2016/05/26/how-to-use-github-and-atom/
