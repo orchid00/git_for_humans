@@ -51,7 +51,7 @@ git status
 ### Exercise 4
 We can create one file, using Atom editor.
 ```{unix}
-Atom README.md
+atom README.md
 ```
 Check the story of your Project
 ```{unix}
@@ -88,7 +88,7 @@ git status
 What is our new status?
 
 ```{unix}
-git commit -a "adding a README.md"
+git commit -a 
 ```
 
 ## Recap
