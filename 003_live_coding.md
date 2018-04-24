@@ -129,3 +129,9 @@ git log --oneline
 ```
 
 ## Thing 2. Git Let's you travel in time
+```{unix}
+git checkout [hash] filename
+git status
+```
+### Exercise 4
+- Save your changes
