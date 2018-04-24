@@ -6,14 +6,14 @@
 You have now a bit of advantage for this game!
 https://guides.github.com/activities/hello-world/
 
-## Exercise 1
+### Exercise 1
 
 Let's discuss
 
 - What is a branch?
 - What is a pull request?
 
-## Exercise 2
+### Exercise 2
 
 Let's make a copy of our online repo
 GitHub includes the string we need to identify it the repo. We will use this hello-world repo as testing ground.
@@ -33,7 +33,7 @@ Now that we have a remote we will always want to verify that we have the latest 
 ```{unix}
 git pull origin master
 ```
-## Exercise 3
+### Exercise 3
 - On your computer add some changes to the README.md file of the hello-world repo
 - Save your changes locally
 - Save your changes to the online repo
@@ -42,7 +42,7 @@ git push origin master
 ```
 - Check online
 
-## Exercise 4
+### Exercise 4
 - Online add some changes to the README.md file of the hello-world repo. (look for the pen icon)
 - Save your changes online
 - Get the new changes back to your computer
@@ -51,12 +51,12 @@ git pull origin master
 ```
 - check your local file
 
-## Exercise 5
+### Exercise 5
 
 - Discuss in pairs the difference between git pull and git push
 - Discuss origin and master
 
-# Exercise 6
+### Exercise 6
 In pairs exchange GitHub user names, decide who will hold the master copy
 - Clone the repo of your neighbour make changes submit and merge changes (as in the online exercise).
 You have to submit a pull request because you can not push directly to someone else repo.
