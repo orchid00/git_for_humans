@@ -101,7 +101,7 @@ repeat three times!
 
 # Break 10 min
 
-## Thing 2. Git Let's you travel in time
+# Git history
 
 We can ask Git to show us the project’s history using `git log`
 
@@ -114,5 +114,18 @@ We can ask Git to show us the project’s history using `git log`
 - Check the differences after the commit with `git diff`
 - Check the history using `git log`
 
-## Exercise 2
+### Exercise 2
 - Discuss in pairs what's the difference between `git diff`, `git status` and `git log`
+
+### Exercise 3
+- Add a new folder called `data`
+- Add a file called `mydata.tsv`
+- Save your changes
+
+## History summary
+Now that we have a larger story on our project a good summary is
+```{unix}
+git log --oneline
+```
+
+## Thing 2. Git Let's you travel in time
