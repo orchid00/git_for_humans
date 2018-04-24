@@ -8,3 +8,5 @@
 - [How to setup Rstudio with Git and GitHub](http://happygitwithr.com/rstudio-git-github.html)
 - [Keep your email address private on GitHub](https://help.github.com/articles/setting-your-commit-email-address-on-github/)
 - [What's the difference between git revert, checkout and reset?](https://stackoverflow.com/questions/8358035/whats-the-difference-between-git-revert-checkout-and-reset)
+- Software Carpentry git for novices lesson http://swcarpentry.github.io/git-novice
+- Add keys, chapter 11 and 12 from [happygitwithr](http://happygitwithr.com/credential-caching.html#credential-caching)
