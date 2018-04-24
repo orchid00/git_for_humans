@@ -135,3 +135,6 @@ git status
 ```
 ### Exercise 4
 - Save your changes
+
+*Note*:
+Make sure to always indicate the name of the file to checkout, or you might find yourself into a detached HEAD state. After checking your files you can recover by typing `git checkout master`
