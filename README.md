@@ -1,7 +1,5 @@
 # My code changed and using Git I know where and when
 
-{% include toc %}
-
 ## What is Git?
 
 Git is the open source distributed version control system. In other words, it is a program that helps you put a time-stamp to your files, so that you can keep track of all the changes.
