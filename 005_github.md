@@ -60,3 +60,5 @@ git pull origin master
 In pairs exchange GitHub user names, decide who will hold the master copy
 - Clone the repo of your neighbour make changes submit and merge changes (as in the online exercise).
 You have to submit a pull request because you can not push directly to someone else repo.
+
+#### [Next: Atom](./006_atom.md)

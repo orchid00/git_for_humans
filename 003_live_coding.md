@@ -149,4 +149,6 @@ Make sure to always indicate the name of the file to checkout, or you might find
 There are some things like visual images that result from running your code and you should not need to save them, because you can generate them again.
 
 - Use `.gitignore` to add the files to be ignored
-- Before finishing this part make sure you check there is nothing to commit and your repo is all up to date
+- Before finishing this part make sure you check there is nothing to commit and your repo is all up to date.
+
+#### [Next: Game](./004_interactive_game.md)

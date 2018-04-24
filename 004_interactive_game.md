@@ -9,3 +9,5 @@ We have some prepared cards with the most common and used git commands. It is no
 
 # Break 10 min
 After the game we have another break before starting the third part of the workshop.
+
+#### [Next: GitHub](./005_github.md)

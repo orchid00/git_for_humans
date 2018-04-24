@@ -12,3 +12,5 @@ Great way to introduce Git terms. [This presentation has been slightly modified 
 
 ## Curiosities - Extra
 - Git [from wikipedia git](https://en.wikipedia.org/wiki/Git)
+
+#### [Next: Live coding](./003_live_coding.md)
