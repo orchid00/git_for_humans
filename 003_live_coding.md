@@ -127,3 +127,5 @@ Now that we have a larger story on our project a good summary is
 ```{unix}
 git log --oneline
 ```
+
+## Thing 2. Git Let's you travel in time
