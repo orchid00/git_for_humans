@@ -1,3 +1,2 @@
 site_name: Git for humans
 theme: jekyll-theme-slate
-{% include toc.html html=content %}
