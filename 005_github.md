@@ -40,16 +40,23 @@ git pull origin master
 ```{unix}
 git push origin master
 ```
+- Check online
 
 ## Exercise 4
-- Online add some changes to the README.md file of the hello-world repo
+- Online add some changes to the README.md file of the hello-world repo. (look for the pen icon)
 - Save your changes online
 - Get the new changes back to your computer
 ```{unix}
 git pull origin master
 ```
+- check your local file
 
 ## Exercise 5
 
 - Discuss in pairs the difference between git pull and git push
 - Discuss origin and master
+
+# Exercise 6
+In pairs exchange GitHub user names, decide who will hold the master copy
+- Clone the repo of your neighbour make changes submit and merge changes (as in the online exercise).
+You have to submit a pull request because you can not push directly to someone else repo.
