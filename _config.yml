@@ -1,1 +1,4 @@
+site_name: Git for humans
+pages: 
+    - Setup: '000_setup.md'
 theme: jekyll-theme-slate
