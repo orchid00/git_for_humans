@@ -14,3 +14,5 @@
 - Learn git	https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 - basic git commands	https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration
 - git and atom https://vwannabe.com/2016/05/26/how-to-use-github-and-atom/
+- GitHub UGent https://github.ugent.be
+- Hello world GitHub guide https://guides.github.com/activities/hello-world/
