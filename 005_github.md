@@ -1,6 +1,6 @@
 # GitHub
 
-1. Please login to your GitHub account
+1. Please login to your [GitHub](https://github.com) account or your [Ugent GitHub](https://github.ugent.be)
 
 2. GitHub 10 min tutorial
 You have now a bit of advantage for this game!
