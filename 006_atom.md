@@ -1,9 +1,7 @@
 # Atom
 
-Atom is the new awesome
-
+Atom is the new awesome!
 ![Atom and GitHub](./img/atom-github.jpg)
-
 
 ### Exercise 1
 
@@ -13,4 +11,8 @@ Atom is the new awesome
 - configure your atom to your GitHub
 - push your changes online
 
-#### [The end: Resources](./007_resources.md)
+However, feel free to use the time to integrate Git to your existing editor, more relevant to your language.
+
+*This is the end of the workshop*
+
+#### [Next: Resources](./007_resources.md)
