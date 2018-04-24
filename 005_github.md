@@ -4,7 +4,8 @@
 
 2. GitHub 10 min tutorial
 You have now a bit of advantage for this game!
-https://guides.github.com/activities/hello-world/
+
+[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
 ### Exercise 1
 
