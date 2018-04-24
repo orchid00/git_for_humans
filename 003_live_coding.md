@@ -138,3 +138,15 @@ git status
 
 *Note*:
 Make sure to always indicate the name of the file to checkout, or you might find yourself into a detached HEAD state. After checking your files you can recover by typing `git checkout master`
+
+## Ignoring things
+
+### Exercise 5
+- Add a new folder called `img`
+- Add a file called `myplot.png`
+- Save your changes
+
+There are some things like visual images that result from running your code and you should not need to save them, because you can generate them again.
+
+- Use `.gitignore` to add the files to be ignored
+- Before finishing this part make sure you check there is nothing to commit and your repo is all up to date
