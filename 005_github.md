@@ -4,7 +4,7 @@
 
 2. GitHub 10 min tutorial
 You have now a bit of advantage for this game!
-https://guides.github.com/activities/hello-world/
+[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 
 ### Exercise 1
 
@@ -16,18 +16,16 @@ Let's discuss
 ### Exercise 2
 
 Let's make a copy of our online repo
-GitHub includes the string we need to identify it the repo. We will use this hello-world repo as testing ground.
+GitHub includes the string we need to identify the repo. We will use this hello-world repo as testing ground.
 
 ```{unix}
 git clone https://github.com/yourusername/hello-world.git
 ```
-
 Check your online repo pointers
 ```{unix}
 git remote -v
 ```
-
-For the next part you need to type your github user name and password. There are ways to automate this, links on resources.
+For the next part you need to type your GitHub username and password. Note: There are ways to automate this, check on [resources](./007_resources).
 
 Now that we have a remote we will always want to verify that we have the latest changes
 ```{unix}
