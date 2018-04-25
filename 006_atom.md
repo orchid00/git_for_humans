@@ -14,6 +14,6 @@ However, feel free to use the time to integrate Git to your existing editor, whi
 - configure your atom to your GitHub
 - push your changes online
 
-*This is the end of the workshop*
+*This is the end of the workshop* I hope you enjoyed it!
 
 #### [Next: Resources](./007_resources.md)
