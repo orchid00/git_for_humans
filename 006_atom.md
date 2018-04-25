@@ -2,7 +2,7 @@
 
 Atom is the new awesome
 
-## Exercise 1
+### Exercise 1
 
 - Open the hello-world project as test on atom and open the Welcome guides
 - You have time to update color settings if you like
