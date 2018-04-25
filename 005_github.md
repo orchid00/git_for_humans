@@ -33,7 +33,12 @@ git pull origin master
 ```
 ### Exercise 3
 - On your computer add some changes to the README.md file of the hello-world repo
-- Save your changes locally
+- Save your changes locally with a **commit**
+- Check your repo
+```{unix}
+git status
+```
+-
 - Send your changes to the online repo with **push**
 ```{unix}
 git push origin master
