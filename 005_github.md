@@ -15,7 +15,7 @@ Let's discuss
 
 ### Exercise 2
 
-Let's make a copy of our online repo,
+Let's make a copy of our online repo with **clone**,
 GitHub includes the string we need to identify the repo. We will use this hello-world repo as testing ground.
 
 ```{unix}
@@ -34,14 +34,15 @@ git pull origin master
 ### Exercise 3
 - On your computer add some changes to the README.md file of the hello-world repo
 - Save your changes locally
-- Save your changes to the online repo
+- Send your changes to the online repo with **push**
 ```{unix}
 git push origin master
 ```
-- Check online
+- Check online that the changes are reflected
 
 ### Exercise 4
-- Online add some changes to the README.md file of the hello-world repo. (look for the pen icon)
+- Make changes online to the README.md file of your hello-world repo. For this you need to look for the pen icon on the top right.
+- Once you are on edit mode you can make changes then,
 - Save your changes online, add a message and create a pull request
 - Get the new changes back to your computer
 ```{unix}
