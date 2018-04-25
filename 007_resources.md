@@ -16,6 +16,7 @@
 - git and atom [https://vwannabe.com/2016/05/26/how-to-use-github-and-atom/](https://vwannabe.com/2016/05/26/how-to-use-github-and-atom/)
 - GitHub UGent [https://github.ugent.be](https://github.ugent.be)
 - Hello world GitHub guide [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+- For a repo from GitHub [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
