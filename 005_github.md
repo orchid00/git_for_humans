@@ -42,6 +42,7 @@ git status
 ```{unix}
 git push origin master
 ```
+- You might need to give your login credentials, for now, but remember this can be automated following steps from [resources](./007_resources)
 - Check online that the changes are reflected
 
 ### Exercise 4
