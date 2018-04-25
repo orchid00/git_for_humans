@@ -15,7 +15,7 @@ Let's discuss
 
 ### Exercise 2
 
-Let's make a copy of our online repo
+Let's make a copy of our online repo,
 GitHub includes the string we need to identify the repo. We will use this hello-world repo as testing ground.
 
 ```{unix}
@@ -25,9 +25,9 @@ Check your online repo pointers
 ```{unix}
 git remote -v
 ```
-For the next part you need to type your GitHub username and password. Note: There are ways to automate this, check on [resources](./007_resources).
+For the next part you need to type your GitHub username and password. Note: There are ways to automate this, check on [resources](./007_resources) later.
 
-Now that we have a remote we will always want to verify that we have the latest changes
+Now, that we have a remote we will always want to verify that we have the latest changes before any new changes, remember to bring changes with **pull**
 ```{unix}
 git pull origin master
 ```
