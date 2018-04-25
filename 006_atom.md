@@ -3,6 +3,9 @@
 Atom is the new awesome!
 ![Atom and GitHub](./img/atom-github.jpg)
 
+However, feel free to use the time to integrate Git to your existing editor, which might be more relevant to your programming language or workflow.
+
+
 ### Exercise 1
 
 - Open the hello-world project as test on atom and open the Welcome guides
@@ -10,8 +13,6 @@ Atom is the new awesome!
 - play making changes
 - configure your atom to your GitHub
 - push your changes online
-
-However, feel free to use the time to integrate Git to your existing editor, more relevant to your language.
 
 *This is the end of the workshop*
 
