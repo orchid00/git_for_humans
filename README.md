@@ -32,7 +32,7 @@ This short workshop aims to get you started with Git from zero. (If you already 
 
 The course is extremely hands-on, and includes one hour of lecture in total, and two hours of practical exercises and time to ask questions.
 
-If you would like to follow the workshop on your own, you can go through on your own time, the files are ordered numerically.
+If you would like to follow the workshop on your own, you can go through on your own time, the files are ordered numerically, starting from [setup](./000_setup.md).
 
 ## License
 This event is organised by ELIXIR Belgium.
