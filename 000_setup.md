@@ -11,3 +11,5 @@
 Create a folder in your computer to create your git/code projects (somewhere other than the desktop, for example under Documents).
 
 Once you are ready please write your name on a sticky and paste it on your laptop.
+
+#### [Next: Activity](./001_activity.md)

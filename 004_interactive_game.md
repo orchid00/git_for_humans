@@ -8,4 +8,8 @@ We have some prepared cards with the most common and used git commands. It is no
 
 
 # Break 10 min
-After the game we have another break before starting the third part of the workshop.
+After the game we have a break, before starting the third part of the workshop.
+
+![Open Science](./img/02_open_concepts_and_principles.png)
+
+#### [Next: GitHub](./005_github.md)

@@ -3,7 +3,7 @@
 This presentation has been slightly modified from the original. [Alice Bartlett. Git for humans, 2016](https://speakerdeck.com/alicebartlett/git-for-humans) (reuse allowed) by Creative Commons Attribution license.
 
 ## Presentation
-Great way to introduce Git terms. [This presentation has been slightly modified from the original]().
+Great way to introduce Git terms. [This presentation has been slightly modified from the original](./git-for-humans_from_Alice_Bartlett.pdf).
 
 ## Discussion
 - Can you think of a situation where you will collaborate using Git?
@@ -12,3 +12,5 @@ Great way to introduce Git terms. [This presentation has been slightly modified 
 
 ## Curiosities - Extra
 - Git [from wikipedia git](https://en.wikipedia.org/wiki/Git)
+
+#### [Next: Live coding](./003_live_coding.md)
