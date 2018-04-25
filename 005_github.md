@@ -38,7 +38,6 @@ git pull origin master
 ```{unix}
 git status
 ```
--
 - Send your changes to the online repo with **push**
 ```{unix}
 git push origin master
