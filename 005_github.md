@@ -66,7 +66,7 @@ There are two ways to do this, depending on the needs:
 2. To suggest many changes to multiple files
 
 - In the top-right corner of the page, click **Fork** (this makes a copy of the repo on your own account)
-- Now you can repeat steps from Exercise 4 to do changes on line (which I will recommend for small changes)
+- Now you can repeat steps from Exercise 4 to do changes online (which I will recommend for small changes)
 
 On the other hand, if you are going to suggest many changes to multiple files, I will recommend you make a local copy and change files on your computer. You do not need to do this now, but when you want to do it follow the instructions on Step 3 [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
