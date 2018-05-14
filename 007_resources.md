@@ -17,6 +17,7 @@
 - GitHub UGent [https://github.ugent.be](https://github.ugent.be)
 - Hello world GitHub guide [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 - For a repo from GitHub [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+- Ten Simple Rules for Taking Advantage of Git and GitHub - PLOS Computational Biology [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/)
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
