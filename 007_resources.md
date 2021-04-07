@@ -15,6 +15,9 @@
 - Fork a repo from GitHub [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 - [Can I use git as cloud storage?](https://github.community/t/can-i-use-github-as-free-unlimited-cloud-storage-or-is-this-only-with-bitbucket-possible/1574) Short answer is no
 
+<div align="center">
+  <img width="100" height="110" src="./img/myoctocat.png">
+</div>
 
 ## If you are using Git this will be helpful
 - How to setup Atom: Go to Help > Welcome Guide or Edit > Preferences [watch this video](https://www.youtube.com/watch?v=U5POoGSrtGg)
@@ -28,7 +31,7 @@
 - Learning paths github [https://services.github.com/on-demand/resources/learning-path/](https://services.github.com/on-demand/resources/learning-path/)
 - Ten Simple Rules for Taking Advantage of Git and GitHub - PLOS Computational Biology [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/)
 - Thinking to use [Git and Dropbox?](https://github.com/anishathalye/git-remote-dropbox) read first, [Git and Onedrive have similiar issues](https://www.permikkelsen.dk/how-to-host-your-git-repository-on-onedrive.html) be aware first. As a general rule any cloud storage that is directly synchronising should first have a level of exclusions, and you need to be aware of time lapses in sync.
-
+- The octocat was created using [https://myoctocat.com/](https://myoctocat.com/) and you can get inspired by the [Octodex](https://octodex.github.com/) Family. My favourites are the [adacats](https://octodex.github.com/images/Adacats.png). 
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
