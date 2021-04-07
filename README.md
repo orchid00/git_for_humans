@@ -49,7 +49,7 @@ If you would like to follow the workshop on your own, you can go through on your
 
 
 ## License
-This event is organised by ELIXIR Belgium.
+This event was first organised for ELIXIR Belgium in 2018.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
