@@ -6,11 +6,13 @@ Git is the open source distributed version control system. In other words, it is
 
 ## Audience
 
-Intended for life scientists who are learning a new programming language or/and have an existing project with code (in any language) or text files that need track of changes. If you intend to make your code collaborative, bonus points for you!
+These materials are intended for scientists who are learning a new programming language or/and have an existing project with code (in any language) or text files that need track of changes. If you intend to make your code collaborative, bonus points for you!
 
 ## Aim
 
-This short workshop aims to get you started with Git from zero. (If you already use Git this is too basic for you).
+This short workshop aims to get you started with Git from zero. 
+
+Disclaimer: If you already use Git this is too basic for you.
 
 ## Learning outcomes
 
@@ -21,7 +23,7 @@ This short workshop aims to get you started with Git from zero. (If you already 
 - Ignoring things
 - Connect to GitHub
 - Collaborating on file changes
-- We will have a look at Atom Editor - or you can test your own language integration with Git
+- We will have a look at Atom Editor - or you can test your own language app integration with Git
 
 ## Requirements
 
@@ -34,21 +36,23 @@ The course is extremely hands-on, and includes one hour of lecture in total, and
 
 If you would like to follow the workshop on your own, you can go through on your own time, the files are ordered numerically, starting from [setup](./000_setup.md).
 
+## Contents
+
+1. [Setup](./000_setup.md)
+1. [First activity to get to know each other](./001_activity.html)
+1. [Slides presentation](./002_presentation.md)
+1. [Time to code in](./003_live_coding.md) 
+1. [Interactive game in small groups](./004_interactive_game.html)
+1. [Moving on to GitHub](./005_github.html)
+1. [Extra: using Atom](./006_atom.html)
+1. [Find extra resources](./007_resources.html) 
+
+
 ## License
 This event is organised by ELIXIR Belgium.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
- Trainer and workshop materials by Paula Andrea Martinez, 2018. *[My code changed and using Git I know where and when](https://orchid00.github.io/git_for_humans/)* license [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Link to work https://github.com/orchid00/git_for_humans/.
+ Trainer and workshop materials by Paula Andrea Martinez, 2021. v2 *[My code changed and using Git I know where and when](https://orchid00.github.io/git_for_humans/)* license [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Link to markdown files [https://github.com/orchid00/git_for_humans/](https://github.com/orchid00/git_for_humans/). 
 
 
-
-
-
-
-
-
-
-
-​
-​​
