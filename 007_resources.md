@@ -33,6 +33,8 @@
 - Thinking to use [Git and Dropbox?](https://github.com/anishathalye/git-remote-dropbox) read first, [Git and Onedrive have similiar issues](https://www.permikkelsen.dk/how-to-host-your-git-repository-on-onedrive.html) be aware first. As a general rule any cloud storage that is directly synchronising should first have a level of exclusions, and you need to be aware of time lapses in sync.
 - The octocat was created using [https://myoctocat.com/](https://myoctocat.com/) and you can get inspired by the [Octodex](https://octodex.github.com/) Family. My favourites are the [adacats](https://octodex.github.com/images/Adacats.png). 
 - [what and where is the git HEAD?](https://backlog.com/git-tutorial/using-branches/git-switch-branches/)
+- What to ignore? Example for [R](https://www.toptal.com/developers/gitignore/api/r) and example for [Python](https://www.toptal.com/developers/gitignore/api/python) GitHub also has some templates available when you create a repo.
+
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
