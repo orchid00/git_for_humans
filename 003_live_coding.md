@@ -49,7 +49,7 @@ git status
 ```
 
 ### Exercise 4
-We can create one file, using Atom editor.
+We can create one file, using Atom editor. A good file to start with is a README.md file. (Learn more about the README.md tips)[https://www.makeareadme.com/] and (template)[https://readme.so/].
 ```{unix}
 atom README.md
 ```
