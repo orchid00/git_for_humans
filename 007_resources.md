@@ -19,7 +19,7 @@
   <img width="100" height="110" src="./img/myoctocat.png">
 </div>
 
-## If you are using Git this will be helpful
+## If you are already using Git and Github, this will be helpful
 - How to setup Atom: Go to Help > Welcome Guide or Edit > Preferences [watch this video](https://www.youtube.com/watch?v=U5POoGSrtGg)
 - git and atom [https://vwannabe.com/2016/05/26/how-to-use-github-and-atom/](https://vwannabe.com/2016/05/26/how-to-use-github-and-atom/)
 - How to fix common git mistakes [check this out](https://ohshitgit.com/)
@@ -34,7 +34,7 @@
 - The octocat was created using [https://myoctocat.com/](https://myoctocat.com/) and you can get inspired by the [Octodex](https://octodex.github.com/) Family. My favourites are the [adacats](https://octodex.github.com/images/Adacats.png). 
 - [what and where is the git HEAD?](https://backlog.com/git-tutorial/using-branches/git-switch-branches/)
 - What to ignore? Example for [R](https://www.toptal.com/developers/gitignore/api/r) and example for [Python](https://www.toptal.com/developers/gitignore/api/python) GitHub also has some templates available when you create a repo.
-
+- (Short explanation between tags and releases)[https://www.toolsqa.com/git/github-releases/].
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
